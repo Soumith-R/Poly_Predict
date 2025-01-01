@@ -1,0 +1,18 @@
+2024-12-29 00:25:00,745 - INFO - Available columns: ['Polymer', 'Polymer SMILES', 'Solvent', 'Solvent Smiles', 'MW(Da)', 'PDI', '\u03a6', 'w', 'P(mPa)', 'CP(°C)', '1-Phase']
+2024-12-29 00:25:00,747 - INFO - Data shape: (6511, 11)
+2024-12-29 00:25:00,748 - ERROR - Error loading data: 'CP(°C)'
+2024-12-29 00:25:00,748 - ERROR - Error in testing: 'CP(°C)'
+2024-12-29 00:27:40,445 - INFO - Available columns: ['Polymer', 'Polymer SMILES', 'Solvent', 'Solvent Smiles', 'MW(Da)', 'PDI', '\u03a6', 'w', 'P(mPa)', 'CP(°C)', '1-Phase']
+2024-12-29 00:27:40,446 - INFO - CP(°C) range: [-38.55, 308.77]
+2024-12-29 00:27:41,828 - INFO - Model loaded successfully
+2024-12-29 00:27:41,828 - INFO - Dataset size: 6511
+2024-12-29 00:43:05,383 - INFO - Available columns: ['Polymer', 'Polymer SMILES', 'Solvent', 'Solvent Smiles', 'MW(Da)', 'PDI', '\u03a6', 'w', 'P(mPa)', 'CP(°C)', '1-Phase']
+2024-12-29 00:43:05,385 - INFO - Data shape: (6511, 11)
+2024-12-29 00:43:05,385 - INFO - CP (°C) range: [-38.55, 308.77]
+2024-12-29 00:43:06,799 - INFO - Model loaded successfully
+2024-12-29 00:43:06,799 - INFO - Dataset size: 6511
+2024-12-29 00:45:47,511 - INFO - 
+Model Evaluation:
+2024-12-29 00:45:47,511 - INFO - MSE: 0.0473
+2024-12-29 00:45:47,511 - INFO - MAE: 0.1984
+2024-12-29 00:45:47,511 - INFO - R2 Score: -0.0948

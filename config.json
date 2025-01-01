@@ -1,0 +1,12 @@
+{
+    "special_tokens": {
+        "PAD": "[PAD]",
+        "UNK": "[UNK]",
+        "CLS": "[CLS]",
+        "SEP": "[SEP]"
+    },
+    "substitution_dict": {
+        "C": ["N", "O"],
+        "N": ["C", "S"]
+    }
+}
